@@ -1,0 +1,11 @@
+C:\Users\Jon\Documents\_ops\aws-lex-net-chatbot\Code\dotnetLexChatBot\bin\Debug\netcoreapp1.1\dotnetLexChatBot.deps.json
+C:\Users\Jon\Documents\_ops\aws-lex-net-chatbot\Code\dotnetLexChatBot\bin\Debug\netcoreapp1.1\dotnetLexChatBot.runtimeconfig.json
+C:\Users\Jon\Documents\_ops\aws-lex-net-chatbot\Code\dotnetLexChatBot\bin\Debug\netcoreapp1.1\dotnetLexChatBot.runtimeconfig.dev.json
+C:\Users\Jon\Documents\_ops\aws-lex-net-chatbot\Code\dotnetLexChatBot\bin\Debug\netcoreapp1.1\dotnetLexChatBot.dll
+C:\Users\Jon\Documents\_ops\aws-lex-net-chatbot\Code\dotnetLexChatBot\bin\Debug\netcoreapp1.1\dotnetLexChatBot.pdb
+C:\Users\Jon\Documents\_ops\aws-lex-net-chatbot\Code\dotnetLexChatBot\obj\Debug\netcoreapp1.1\dotnetLexChatBot.csprojAssemblyReference.cache
+C:\Users\Jon\Documents\_ops\aws-lex-net-chatbot\Code\dotnetLexChatBot\obj\Debug\netcoreapp1.1\dotnetLexChatBot.csproj.CoreCompileInputs.cache
+C:\Users\Jon\Documents\_ops\aws-lex-net-chatbot\Code\dotnetLexChatBot\obj\Debug\netcoreapp1.1\dotnetLexChatBot.AssemblyInfoInputs.cache
+C:\Users\Jon\Documents\_ops\aws-lex-net-chatbot\Code\dotnetLexChatBot\obj\Debug\netcoreapp1.1\dotnetLexChatBot.AssemblyInfo.cs
+C:\Users\Jon\Documents\_ops\aws-lex-net-chatbot\Code\dotnetLexChatBot\obj\Debug\netcoreapp1.1\dotnetLexChatBot.dll
+C:\Users\Jon\Documents\_ops\aws-lex-net-chatbot\Code\dotnetLexChatBot\obj\Debug\netcoreapp1.1\dotnetLexChatBot.pdb
